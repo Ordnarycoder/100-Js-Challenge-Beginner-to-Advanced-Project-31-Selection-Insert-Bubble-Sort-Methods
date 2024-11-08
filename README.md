@@ -1,0 +1,1 @@
+Selection, Insert and Bubble sort methods with js. I already did them with python so I know the logic.
